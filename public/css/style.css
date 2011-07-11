@@ -1,0 +1,124 @@
+/* CSS Document */
+body
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#333333;
+margin:0px 0px 10px 0px;
+padding:5px 0px 10px 0px;
+background-color:#000000;
+}
+.linksbackground
+{
+background-image:url(../images/linkscenter.jpg);
+background-repeat:repeat-y;
+width:147px;
+}
+#categorylinks {
+	margin-top:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FFFFFF;
+	width:120px;
+	}
+	#categorylinks ul{margin:0px;
+	padding:0px;
+	list-style:none;
+	}
+	#categorylinks li{
+	border-bottom:1px dashed #fff;
+	padding-top:8px;
+	}
+	#categorylinks a{
+	color:#000;
+	height:18px;
+	line-height:18px;
+	display:block;
+	text-decoration:none;
+	text-align:right;}
+	
+	#categorylinks a:hover {
+	color:#FFFFFF;
+	display:block;
+	text-decoration:none;
+	}
+input
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+border:#CCCCCC 1px solid;
+border-collapse:collapse;
+width:85px;
+}
+.footer
+{
+border-collapse:collapse;
+border-right:#FFFFFF  1px solid;
+}
+.linksfoter
+{
+color:#FFFFFF;
+text-decoration:none;
+}
+.linksfoter:hover
+{
+color:#f06f2d;
+text-decoration:none;
+}
+.subapetopstrip
+{
+background-image:url(../images/topstrip.gif);
+background-repeat:repeat-x;
+height:9px;
+}
+.subpagecenterstrip
+{
+background-image:url(../images/subpagecenterstrip.jpg);
+width:550px;
+background-repeat:repeat-y;
+}
+.rightsidepart
+{
+background-image:url(../images/right.gif);
+background-repeat:repeat-y; 
+width:31px;
+}
+.bottom
+{
+background-image:url(../images/bottom.gif);
+background-repeat:no-repeat;
+height:20px;
+width:550px;
+}
+.top
+{
+background-image:url(../images/top.gif);
+background-repeat:no-repeat;
+height:13px;
+width:550px;
+}
+.dollertext
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#f06f2d;
+font-weight:bold;
+}
+.subpagelinks
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#333333;
+text-decoration:none;
+}
+.subpagelinks:hover
+{
+color:#d05211;
+text-decoration:none;
+}
+hr
+{
+line-height:1px;
+height:1px;
+color:#CCCCCC;
+border-collapse:collapse;
